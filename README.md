@@ -1,4 +1,4 @@
-# Quantitative Trading Speed Math Application
+# QuantRacer
 <br></br>
 <b> You better star this repository or I'll tell all the quant firms not to hire you (I got Kenny G on speed dial)</b>
 <br></br>
