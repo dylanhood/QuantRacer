@@ -11,6 +11,22 @@ A web tool developed by, possibly, using statistics and/or smart algorithm(s) in
 <b> Also, maybe take this README.md file out of this repository and maybe put it somewhere else (like maybe on the laptop, or Gmail, or Outlook, or in another repository, etc.).<b>
 <h1> Feature(s) to, possibly, add: </h1>
 <br></br>
+<b> UI Feature:</b>
+<!--- <br></br>
+<table>
+<tr>
+<th>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Possible List&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;</td>
+</tr>
+</table>
+<br></br>
+--->
+<!===
+|Column 1|Column 2|Column 3|
+|:---:|:---:|:---:|
+|Front Page|About|Row 8 Column 3|
+|Row 2 Column1|Credits (maybe follow MonkeyType)|Row 2 Column 3|
+--->
+<br></br>
 <b> Addition Feature:</b> (Ex: 4 + 8, 4 + 80, 4 + 800, 4 + 8000, 40 + 80, 40 + 800, 40 + 8000, 400 + 800, 400 + 8000, 4000 + 8000)
 <br></br>
 <b> Subtraction Feature: </b> (Ex: 4 - 8, 4 - 80, 4 - 800, 4 - 8000, 40 - 80, 40 - 800, 40 - 8000, 400 - 800, 400 - 8000, 4000 - 8000)
