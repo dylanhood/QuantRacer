@@ -20,11 +20,11 @@ A web tool developed by, possibly, using statistics and/or smart algorithm(s) in
 </table>
 <br></br>
 --->
-<!===
+<!---
 |Column 1|Column 2|Column 3|
 |:---:|:---:|:---:|
 |Front Page|About|Row 8 Column 3|
-|Row 2 Column1|Credits (maybe follow MonkeyType)|Row 2 Column 3|
+|Row 2 Column1|Credits (maybe follow Monkeytype)|Row 2 Column 3|
 --->
 <br></br>
 <b> Addition Feature:</b> (Ex: 4 + 8, 4 + 80, 4 + 800, 4 + 8000, 40 + 80, 40 + 800, 40 + 8000, 400 + 800, 400 + 8000, 4000 + 8000)
