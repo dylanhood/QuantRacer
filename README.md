@@ -22,9 +22,9 @@
 &emsp; • This version may be actively and/or inactively in progress.
 <br><br>
 
-<b>WARNING:</b> This is not an official Quantitative Trading Speed Math Application release. Use at your own risk.
+<b>WARNING:</b> This is not an official QuantRacer release. Use at your own risk.
 <br></br>
-This is an early-access view into the development of the web/mobile application, currently, titled "Quantitative Trading Speed Math Application".
+This is an early-access view into the development of the web/mobile application, currently, titled "QuantRacer".
 </details>
 
 ## Description
@@ -83,13 +83,19 @@ May work on developing the following features (maybe not in order).
 <br></br>
 ⦿ Sequence Feature
 <br></br>
-⦿ Sign-In Feature
-<br></br>
-⦿ Personal Best Feature
-<br></br>
-⦿ Leaderboard Feature
-<br></br>
 ⦿ Optiver Exam Feature
+<br></br>
+⦿ Configurable Themes Feature
+<br></br>
+⦿ Sign-In Feature (Maybe)
+<br></br>
+⦿ Overview Feature (Maybe)
+<br></br>
+⦿ Overvall Rank Feature (Maybe)
+<br></br>
+⦿ Personal Best Feature (Maybe)
+<br></br>
+⦿ Leaderboard Feature (Maybe)
 <br></br>
 ⦿ Section Mental Math Speed Overview Feature (Maybe)
 <br></br>
@@ -109,7 +115,7 @@ May work on developing the following features (maybe not in order).
 
 For any question/comment/concern please email <ddhtcm@umsystem.edu>
 
-If you find any error in the repository, maybe file an issue at <https://github.com/dylanhood/Quantitative-Trading-Speed-Math-Application/issues>
+If you find any error in the repository, maybe file an issue at <https://github.com/dylanhood/QuantRacer/issues>
 
 ## Contributions
 
