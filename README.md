@@ -29,7 +29,7 @@ This is an early-access view into the development of the web/mobile application,
 
 ## Description
 
-A web tool/application developed by, possibly, using statistics and/or smart algorithm(s) in an attempt towards creating a more personalized approach towards improving mental math calculations (i.e. addition, subtraction, multiplication, division, fraction(s), percentage(s), sequence(s), pos/neg, etc.). Designed towards becoming more advanced as you improve to, possibly, train muscle memory.
+A web application developed by, possibly, using statistics and/or smart algorithm(s) in an attempt towards creating a more personalized approach towards improving mental math calculations (i.e. addition, subtraction, multiplication, division, fraction(s), percentage(s), sequence(s), pos/neg, etc.). Designed towards becoming more advanced as you improve to, possibly, train muscle memory.
 <br></br>
 TL;DR: Basically, it's kind of like I'm trying to mix some feature(s) from Keybr, Arithmetic Zetamac, Tradermath, Rankyourbrain, RFQJobs, graduateTrader, etc. into one web/mobile application.
 <br></br>
