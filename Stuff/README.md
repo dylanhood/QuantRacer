@@ -82,7 +82,19 @@ A web tool developed by, possibly, using statistics and/or smart algorithm(s) in
 <br></br>
 ⦿ How will you test the code?
 <br></br>
-⦿ How will you organize the code [folder(s), file name(s), etc.] [dist?, build folder [for all file(s) but maybe in a minified version]? frontend (src folder inside)?, styles folder?, test/test(s) folder?, etc.)?, backend (src folder inside?)?, test/test(s) folder?, theme(s), README.md file for theme(s) (like how to create & submit them to be accepted within the parameters of the application and/or maybe what can, currently, be changed on the application), mathcalc (addition file?, subtraction file?, multiplication file?, division file?, etc.)?, randomization file?, sectionalrandomization (40s addition, 80s & mixed number multiplication, 200-235's & 4.3-8.7 division)? etc.]?
+⦿ How will you organize the code 
+<ul>
+<li>[folder(s), file name(s), etc.], </li>
+<li>[dist?, </li>
+<li>build folder [for all file(s) but maybe in a minified version]?, </li>
+<li>frontend (src folder inside)?, styles folder?, test/test(s) folder?, etc.)?, </li>
+<li>backend (src folder inside?)?, </li>
+<li>test/test(s) folder?, theme(s), 
+<li>README.md file for theme(s) (like how to create & submit them to be accepted within the parameters of the application and/or maybe what can, currently, be changed on the application), </li>
+<li>mathcalc (addition file?, subtraction file?, multiplication file?, division file?, etc.)?, </li>
+<li>randomization file?, </li>
+<li>sectionalrandomization (40s addition, 80s & mixed number multiplication, 200-235's & 4.3-8.7 division)? etc.]?
+</ul>
 <br></br>
 ⦿ 
 <br></br>
