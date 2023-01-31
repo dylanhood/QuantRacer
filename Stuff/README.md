@@ -80,5 +80,9 @@ A web tool developed by, possibly, using statistics and/or smart algorithm(s) in
 <br></br>
 ⦿ How will the data transfer to a leaderboard for all user(s) to see (how will you verify the data is correct and belongs to the user)?
 <br></br>
+⦿ How will you test the code?
+<br></br>
+⦿ How will you organize the code [folder(s), file name(s), etc.] [dist?, src?, styles?, theme(s), mathcalc (addition file?, subtraction file?, multiplication file?, division file?, etc.]?, randomization file?, sectionalrandomization (40s addition, 80s & mixed number multiplication, 200-235's & 4.3-8.7 division)? etc.]?
+<br></br>
 ⦿ 
 <br></br>
