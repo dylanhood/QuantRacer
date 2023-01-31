@@ -2,16 +2,12 @@
 <br></br>
 <b> You better star this repository or I'll tell all the quant firms not to hire you (I got Kenny G on speed dial)</b>
 <br></br>
-![fc8-cutout](https://user-images.githubusercontent.com/66035537/210859954-07cc5d71-f02c-486c-ad8d-00139ffd901b.png)
-![Screenshot_20230131_090811-cutout](https://user-images.githubusercontent.com/66035537/215798937-17f4817d-4e38-426c-b52f-8ab16a47f35b.png)
-![Screenshot_20230131_090811](https://user-images.githubusercontent.com/66035537/215798970-c67d6b1a-fba7-402d-bf9d-914ccd3f9855.png)
-![Screenshot_20230131_084548](https://user-images.githubusercontent.com/66035537/215795477-d4c286a8-a8ef-44fb-9f93-f75a4b0c15c1.png)
-![Screenshot_20230131_084303](https://user-images.githubusercontent.com/66035537/215795525-5fee4dae-6a0b-455f-9402-4ed28a796308.png)
-![Screenshot_20230131_084334](https://user-images.githubusercontent.com/66035537/215795553-a7514994-0147-45c2-914f-b2cbcc3900e5.png)
-![Screenshot_20230131_084602](https://user-images.githubusercontent.com/66035537/215795603-25046081-504b-4110-bb2b-4ef36998d081.png)
+![This10](https://user-images.githubusercontent.com/66035537/215831248-3f2254fb-3c69-4c54-b59c-c954fd4d8be7.png)
 <br></br>
 <br></br>
 <b>Note: </b> This may be built in JavaScript but may be converted to C++.</br>
+
+
 
 ## Table of Contents
 1. [News](#news)
