@@ -98,5 +98,10 @@ User Overall (Raw) & Overall Average (Raw) Stats (maybe display an overall rank 
 <li>sectionalrandomization (40s addition, 80s & mixed number multiplication, 200-235's & 4.3-8.7 division)? etc.]?
 </ul>
 <br></br>
-⦿ 
+⦿ Folders: 
+[dist]
+[frontend][src][styles (layout.css <- columns/rows/templateareas/etc.)]
+[backend][src][styles]
+
+
 <br></br>
