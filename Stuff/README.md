@@ -72,6 +72,8 @@ A web tool developed by, possibly, using statistics and/or smart algorithm(s) in
 <br></br>
 <b> Competition Feature (Maybe): </b> Maybe allow user(s) to play against each other (maybe on the same network and/or on different network(s)).
 <br></br>
+User Overall (Raw) & Overall Average (Raw) Stats (maybe display an overall rank (e.g. 46/23806) and/or maybe an overall average rank (e.g. 2536/23806) and maybe a graph displaying where they rank beneath it (e.g. vertical bar chart showing overall rank percentile (in one color and maybe display another but for raw (in another color)) and maybe another vertical bar chart (in a different color) displaying their overall average percentile (maybe add another (in a different color) displaying raw))). Then maybe on the other half (maybe top half) you display best category performance and worst category performance. Maybe below it you display an attendance calender for the month and maybe a see more button in the bottom right corner.
+<br></br>
 <h1>Thing(s) To Think About:</h1>
 <br></br>
 ⦿ How will you get this to work offline?
