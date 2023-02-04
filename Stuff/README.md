@@ -99,9 +99,12 @@ User Overall (Raw) & Overall Average (Raw) Stats (maybe display an overall rank 
 </ul>
 <br></br>
 ⦿ Folders: 
+<br></br>
 [dist]
+<br></br>
 [frontend][src][styles (layout.css <- columns/rows/templateareas/etc.)]
+<br></br>
 [backend][src][styles]
-
-
+<br></br>
+⦿ 
 <br></br>
