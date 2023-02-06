@@ -17,6 +17,9 @@
 5. [Features](#features)
 6. [Support](#support)
 7. [Contributions](#contributions)
+8. [Authors](#authors)
+9. [License](#license)
+10. [Acknowledgements](#acknowledgements)
 
 ## News
 
@@ -120,11 +123,24 @@ May work on developing the following features (maybe not in order).
 Currently, not accepting any contribution at this time but may be open to it upon request. You may do this by emailing <ddhtcm@umsystem.edu>
 ## Code Of Conduct
 Wait wait wait
-## Credits
-Wait wait wait
 ## Support
 
 For any question/comment/concern please email <ddhtcm@umsystem.edu>
 
 If you find any error in the repository, maybe file an issue at <https://github.com/dylanhood/QuantRacer/issues>
+
+## Authors
+
+<b>Dylan Hood</b> - Founder of this project
+<br></br>
+See list of [contributors](https://github.com/dylanhood/QuantRacer/contributors) for this project.
+
+## License
+
+This project is liscensed under ¯\_(ツ)_/¯
+
+## Acknowledgements
+
+<b>Mozilla Developers</b> - [CodePen](https://codepen.io/mozilladevelopers/pen/Xejyed?editors=1100)
+<div>&nbsp;</div>
 
