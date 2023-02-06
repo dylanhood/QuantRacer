@@ -106,5 +106,5 @@ User Overall (Raw) & Overall Average (Raw) Stats (maybe display an overall rank 
 <br></br>
 [backend][src][styles]
 <br></br>
-⦿ 
+⦿ Maybe think about adding a Things to Think About Section to every README.md in this repository and maybe an invitation to contribute to it (maybe to incentivize user(s) to contribute)
 <br></br>
