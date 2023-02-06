@@ -127,7 +127,7 @@ Wait wait wait
 
 For any question/comment/concern please email <ddhtcm@umsystem.edu>
 
-If you find any error in the repository, maybe file an issue at <https://github.com/dylanhood/QuantRacer/issues>
+If you find any error in the repository, maybe file an [issue](https://github.com/dylanhood/QuantRacer/issues).
 
 ## Authors
 
