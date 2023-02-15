@@ -5,7 +5,6 @@
 ![This10](https://user-images.githubusercontent.com/66035537/215831248-3f2254fb-3c69-4c54-b59c-c954fd4d8be7.png)
 <br></br>
 <br></br>
-<b>Note: </b> This may be built in JavaScript but may be converted to C++.</br>
 
 
 
