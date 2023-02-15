@@ -140,6 +140,12 @@ This project is liscensed under ¯\_(ツ)_/¯
 
 ## Acknowledgements
 
-<b>Mozilla Developers</b> - [CodePen](https://codepen.io/mozilladevelopers/pen/Xejyed?editors=1100)
+<b>@mozilladevelopers/Mozilla Developers</b> - [CodePen](https://codepen.io/mozilladevelopers/pen/Xejyed?editors=1100)
+
 <div>&nbsp;</div>
 
+<b>@jpbrnz/Josh</b> - [CodePen](https://codepen.io/jpbrnz/pen/oyKopg)
+
+<div>&nbsp;</div>
+
+<b>@yuhomyan/Yuhomyan</b> - [CodePen](https://codepen.io/yuhomyan/pen/OJMejWJ)
