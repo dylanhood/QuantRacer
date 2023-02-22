@@ -56,8 +56,7 @@ What is graduateTrader? https://graduatetrader.com/
 The web application should be available at the link below.
 
 ``` bash
-www.insertwebsitelinkforthissection.com
-(maybe quantracer.com)
+www.quantracer.com
 ```
 
 The mobile application may be realeased on the Google Play Store (and maybe other store(s)) at a later date.
