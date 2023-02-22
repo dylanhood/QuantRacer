@@ -1,0 +1,107 @@
+.section3 {
+    grid-area: section3;
+    display: grid;
+    width: 100%;
+    height: 100%;
+    grid-template-columns: 50% 35% 15%;
+    grid-template-rows: 30% 30% 40%;
+    grid-gap: 0%;
+    grid-template-areas: 
+        "lastperformance totaltimespent totaltimespent"
+        "lastperformance totaltimespenttoday totaltimespenttoday"
+        "lastperformance totalgamesplayed seemore";
+}
+
+.section3 {
+    background-image: #000000;
+}
+
+.lastperformance {
+    grid-area: lastperformance;
+}
+
+.lastperformancestyle {
+    color:#ffa600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: 0.225rem;
+    outline: 0.225rem;
+    outline-color: #6e6e6e;
+    border-left: 0.5rem solid #4b4a4a;
+    border-bottom: 0.5rem solid #aaa8a8;
+    border-right: 0.5rem solid #464646;
+    text-align: center;
+    border-top: 0.425em solid #c7c6c6;
+    padding: 0em 0em 0em 0em;
+    perspective-origin: center;
+    perspective: 33em;
+}
+
+.totaltimespent {
+    grid-area: totaltimespent;
+}
+
+.totaltimespentstyle {
+    color:#ffa600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: 0.075rem;
+    outline-width: 1.2em solid;
+    outline-color: #494949;
+    padding-bottom: 2em;
+    border-top: 0.425rem solid #c7c6c6;
+    border-right: 1.225rem solid #a09f9f;
+    border-left: 0rem solid #d3d2d2;
+    border-bottom: 1.25rem solid #807e7e;
+    text-align: center;
+    background-color: #2b2a2a;
+    perspective: 6em;
+}
+
+.totaltimespenttoday {
+    grid-area: totaltimespenttoday;
+}
+
+.totaltimespenttodaystyle {
+    color:#ffa600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: 0.0375rem;
+    border-top: 0.225rem solid #c7c6c6;
+    border-right: 1.225rem solid #636262;
+    border-left: 0.225rem solid #5e5d5d;
+    border-bottom: 1.225rem solid #797979;
+    text-align: center;
+    background-color: #2b2a2a;
+    perspective: 6em;
+}
+
+.totalgamesplayed {
+    grid-area: totalgamesplayed;
+}
+
+.totalgamesplayedstyle {
+    color:#ffa600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: 0.15rem;
+    border-top: 0.355rem solid #c9c9c9;
+    border-right: 0.225rem solid #7e7e7e;
+    border-left: 0.225rem solid #7e7e7e;
+    text-align: center;
+}
+
+.seemore {
+    grid-area: seemore;
+}
+
+.seemore {
+    border-top: 0.325rem solid #3a3a3a;
+    border-right: 0.225rem solid #3a3a3a;
+    border-left: 0.225rem solid #3a3a3a;
+}
+
+.seemorestyle {
+    width: 100%;
+    height: 100%;
+}

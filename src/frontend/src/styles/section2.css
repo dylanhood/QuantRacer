@@ -1,0 +1,24 @@
+.section2 {
+    grid-area: section2;
+}
+
+.section2 {
+    background-image: #000000;
+}
+
+.userinputstyle {
+    color:#ffa600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: 0.15em;
+    text-align: center;
+    border-top: 0.425em solid #c7c6c6;
+    border-left: 1.2rem solid #616161;
+    border-bottom: 1.2rem solid #c9c9c9;
+    border-right: 1.225em solid #636363;
+    background-color: #000000;
+    perspective-origin: center;
+    perspective: 33rem;
+    padding-inline-start: 2em;
+    padding-inline-end: 3em;
+}

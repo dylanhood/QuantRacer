@@ -1,0 +1,19 @@
+.footer {
+    grid-area: footer;
+}
+
+.footer {
+    background-color: #252324;
+    background-image: linear-gradient(180deg, #3f3f3f 45.48%, #d4d4d4 57.36%);
+    /*background-image: linear-gradient(0deg, #ffc60a 15.48%, #ffa600 27.36%);*/
+}
+
+.footerstyle {
+    color: #e9e9e9;
+    text-shadow: #000000 0em 0.1225em 0em, #4e4e4e 0em 0.1em 0.1em, #868686 0em 0.05em 0.1em;
+    font-size: 150%;
+    font-weight: 900;
+    padding-top: 0.09%;
+    text-align: center;
+
+}

@@ -1,0 +1,1016 @@
+.sidebar {
+    grid-area: sidebar;
+}
+
+.sidebar {
+    background-image: linear-gradient(-67.5deg, #646464 6.32916%, #303030 25.4996%, #747474 46.4996%, #a1a1a1 56.4996%, #c9c8c8 63.2916%);
+    /*background-image: linear-gradient(-90deg, #ffa600 19.4996%, #ffc60a 73.2916%);*/
+}
+
+.sidebarstyle {
+    border-top: 0rem solid #313131;
+    border-right: 0rem solid #313131;
+    border-bottom: 0rem solid #313131;
+    
+}
+
+.addition {
+    width: 100%;
+    height: 2em;
+    color: #000000;
+    letter-spacing: 0.05em;
+    font-family: sans-serif;
+    font-weight: 600;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-bottom: 1em;
+    border-color: transparent;
+}
+
+.additionbtn {
+    background: rgb(184, 184, 184);
+    width: 100%;
+    height: 2em;
+    line-height: 2em;
+    padding: 0;
+    border: none;
+}
+.additionbtn span {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.additionbtn:before,
+.additionbtn:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.additionbtn:before {
+    height: 0%;
+    width: 0.15em;
+}
+.additionbtn:after {
+    width: 0%;
+    height: 0.15em;
+}
+.additionbtn:hover{
+    background: transparent;
+    box-shadow: none;
+}
+.additionbtn:hover:before {
+    height: 100%;
+}
+.additionbtn:hover:after {
+    width: 100%;
+}
+.additionbtn span:hover{
+    color: rgb(0, 0, 0);
+}
+.additionbtn span:before,
+.additionbtn span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.additionbtn span:before {
+    width: 0.15em;
+    height: 0%;
+}
+.additionbtn span:after {
+    width: 0%;
+    height: 0.15em;
+}
+.additionbtn span:hover:before {
+    height: 100%;
+}
+.additionbtn span:hover:after {
+    width: 100%;
+}
+
+.subtraction {
+    width: 100%;
+    height: 2em;
+    color: #000000;
+    letter-spacing: 0.05em;
+    font-family: sans-serif;
+    font-weight: 600;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+}
+
+.subtractionbtn {
+    background: rgb(184, 184, 184);
+    width: 100%;
+    height: 2em;
+    line-height: 2em;
+    padding: 0;
+    border: none;
+}
+.subtractionbtn span {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.subtractionbtn:before,
+.subtractionbtn:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.subtractionbtn:before {
+    height: 0%;
+    width: 0.15em;
+}
+.subtractionbtn:after {
+    width: 0%;
+    height: 0.15em;
+}
+.subtractionbtn:hover{
+    background: transparent;
+    box-shadow: none;
+}
+.subtractionbtn:hover:before {
+    height: 100%;
+}
+.subtractionbtn:hover:after {
+    width: 100%;
+}
+.subtractionbtn span:hover{
+    color: rgb(0, 0, 0);
+}
+.subtractionbtn span:before,
+.subtractionbtn span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.subtractionbtn span:before {
+    width: 0.15em;
+    height: 0%;
+}
+.subtractionbtn span:after {
+    width: 0%;
+    height: 0.15em;
+}
+.subtractionbtn span:hover:before {
+    height: 100%;
+}
+.subtractionbtn span:hover:after {
+    width: 100%;
+}
+
+.multiplication {
+    width: 100%;
+    height: 2em;
+    color: #000000;
+    letter-spacing: 0.05em;
+    font-family: sans-serif;
+    font-weight: 600;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+}
+
+.multiplicationbtn {
+    background: rgb(184, 184, 184);
+    width: 100%;
+    height: 2em;
+    line-height: 2em;
+    padding: 0;
+    border: none;
+}
+.multiplicationbtn span {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.multiplicationbtn:before,
+.multiplicationbtn:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.multiplicationbtn:before {
+    height: 0%;
+    width: 0.15em;
+}
+.multiplicationbtn:after {
+    width: 0%;
+    height: 0.15em;
+}
+.multiplicationbtn:hover{
+    background: transparent;
+    box-shadow: none;
+}
+.multiplicationbtn:hover:before {
+    height: 100%;
+}
+.multiplicationbtn:hover:after {
+    width: 100%;
+}
+.multiplicationbtn span:hover{
+    color: rgb(0, 0, 0);
+}
+.multiplicationbtn span:before,
+.multiplicationbtn span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.multiplicationbtn span:before {
+    width: 0.15em;
+    height: 0%;
+}
+.multiplicationbtn span:after {
+    width: 0%;
+    height: 0.15em;
+}
+.multiplicationbtn span:hover:before {
+    height: 100%;
+}
+.multiplicationbtn span:hover:after {
+    width: 100%;
+}
+
+.division {
+    width: 100%;
+    height: 2em;
+    color: #000000;
+    letter-spacing: 0.05em;
+    font-family: sans-serif;
+    font-weight: 600;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+}
+
+.divisionbtn {
+    background: rgb(184, 184, 184);
+    width: 100%;
+    height: 2em;
+    line-height: 2em;
+    padding: 0;
+    border: none;
+}
+.divisionbtn span {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.divisionbtn:before,
+.divisionbtn:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.divisionbtn:before {
+    height: 0%;
+    width: 0.15em;
+}
+.divisionbtn:after {
+    width: 0%;
+    height: 0.15em;
+}
+.divisionbtn:hover{
+    background: transparent;
+    box-shadow: none;
+}
+.divisionbtn:hover:before {
+    height: 100%;
+}
+.divisionbtn:hover:after {
+    width: 100%;
+}
+.divisionbtn span:hover{
+    color: rgb(0, 0, 0);
+}
+.divisionbtn span:before,
+.divisionbtn span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.divisionbtn span:before {
+    width: 0.15em;
+    height: 0%;
+}
+.divisionbtn span:after {
+    width: 0%;
+    height: 0.15em;
+}
+.divisionbtn span:hover:before {
+    height: 100%;
+}
+.divisionbtn span:hover:after {
+    width: 100%;
+}
+
+.positive {
+    width: 100%;
+    height: 100%;
+    color: #000000;
+    font-family: sans-serif;
+    font-weight: 600;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: flex;
+    outline: none;
+    text-align: center;
+    border: none;
+}
+
+.positivebtn {
+    background: rgb(184, 184, 184);
+    width: 5em;
+    height: 2em;
+    line-height: 2em;
+    border: none;
+}
+.positivebtn span {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.positivebtn:before,
+.positivebtn:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.positivebtn:before {
+    height: 0%;
+    width: 0.15em;
+}
+.positivebtn:after {
+    width: 0%;
+    height: 0.15em;
+}
+.positivebtn:hover{
+    background: transparent;
+    box-shadow: none;
+}
+.positivebtn:hover:before {
+    height: 100%;
+}
+.positivebtn:hover:after {
+    width: 100%;
+}
+.positivebtn span:hover{
+    color: rgb(0, 0, 0);
+}
+.positivebtn span:before,
+.positivebtn span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.positivebtn span:before {
+    width: 0.15em;
+    height: 0%;
+}
+.positivebtn span:after {
+    width: 0%;
+    height: 0.15em;
+}
+.positivebtn span:hover:before {
+    height: 100%;
+}
+.positivebtn span:hover:after {
+    width: 100%;
+}
+
+.negative {
+    width: 100%;
+    height: 100%;
+    color: #000000;
+    font-family: sans-serif;
+    font-weight: 600;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: flex;
+    outline: none;
+    text-align: center;
+    border: none;
+}
+
+.negativebtn {
+    background: rgb(184, 184, 184);
+    width: 5em;
+    height: 2em;
+    line-height: 2em;
+    padding: 0;
+    border: none;
+}
+.negativebtn span {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.negativebtn:before,
+.negativebtn:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.negativebtn:before {
+    height: 0%;
+    width: 0.15em;
+}
+.negativebtn:after {
+    width: 0%;
+    height: 0.15em;
+}
+.negativebtn:hover{
+    background: transparent;
+    box-shadow: none;
+}
+.negativebtn:hover:before {
+    height: 100%;
+}
+.negativebtn:hover:after {
+    width: 100%;
+}
+.negativebtn span:hover{
+    color: rgb(0, 0, 0);
+}
+.negativebtn span:before,
+.negativebtn span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.negativebtn span:before {
+    width: 0.15em;
+    height: 0%;
+}
+.negativebtn span:after {
+    width: 0%;
+    height: 0.15em;
+}
+.negativebtn span:hover:before {
+    height: 100%;
+}
+.negativebtn span:hover:after {
+    width: 100%;
+}
+
+.positivenegative {
+    width: 100%;
+    height: 100%;
+    color: #000000;
+    font-family: sans-serif;
+    font-weight: 600;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: flex;
+    outline: none;
+    text-align: center;
+    border: none;
+}
+
+.positivenegativebtn {
+    background: rgb(184, 184, 184);
+    width: 5em;
+    height: 2em;
+    line-height: 2em;
+    padding: 0em;
+    border: none;
+}
+.positivenegativebtn span {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.positivenegativebtn:before,
+.positivenegativebtn:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.positivenegativebtn:before {
+    height: 0%;
+    width: 0.15em;
+}
+.positivenegativebtn:after {
+    width: 0%;
+    height: 0.15em;
+}
+.positivenegativebtn:hover{
+    background: transparent;
+    box-shadow: none;
+}
+.positivenegativebtn:hover:before {
+    height: 100%;
+}
+.positivenegativebtn:hover:after {
+    width: 100%;
+}
+.positivenegativebtn span:hover{
+    color: rgb(0, 0, 0);
+}
+.positivenegativebtn span:before,
+.positivenegativebtn span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.positivenegativebtn span:before {
+    width: 0.15em;
+    height: 0%;
+}
+.positivenegativebtn span:after {
+    width: 0%;
+    height: 0.15em;
+}
+.positivenegativebtn span:hover:before {
+    height: 100%;
+}
+.positivenegativebtn span:hover:after {
+    width: 100%;
+}
+
+
+.decimal {
+    width: 100%;
+    height: 2em;
+    color: #000000;
+    letter-spacing: 0.05em;
+    font-family: sans-serif;
+    font-weight: 600;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+}
+
+.decimalbtn {
+    background: rgb(184, 184, 184);
+    width: 100%;
+    height: 2em;
+    line-height: 2em;
+    padding: 0;
+    border: none;
+}
+.decimalbtn span {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.decimalbtn:before,
+.decimalbtn:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.decimalbtn:before {
+    height: 0%;
+    width: 0.15em;
+}
+.decimalbtn:after {
+    width: 0%;
+    height: 0.15em;
+}
+.decimalbtn:hover{
+    background: transparent;
+    box-shadow: none;
+}
+.decimalbtn:hover:before {
+    height: 100%;
+}
+.decimalbtn:hover:after {
+    width: 100%;
+}
+.decimalbtn span:hover{
+    color: rgb(0, 0, 0);
+}
+.decimalbtn span:before,
+.decimalbtn span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.decimalbtn span:before {
+    width: 0.15em;
+    height: 0%;
+}
+.additionbtn span:after {
+    width: 0%;
+    height: 0.15em;
+}
+.decimalbtn span:hover:before {
+    height: 100%;
+}
+.decimalbtn span:hover:after {
+    width: 100%;
+}
+
+.fraction {
+    width: 100%;
+    height: 2em;
+    color: #000000;
+    letter-spacing: 0.05em;
+    font-family: sans-serif;
+    font-weight: 600;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+}
+
+.fractionbtn {
+    background: rgb(184, 184, 184);
+    width: 100%;
+    height: 2em;
+    line-height: 2em;
+    padding: 0;
+    border: none;
+}
+.fractionbtn span {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.fractionbtn:before,
+.fractionbtn:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.fractionbtn:before {
+    height: 0%;
+    width: 0.15em;
+}
+.fractionbtn:after {
+    width: 0%;
+    height: 0.15em;
+}
+.fractionbtn:hover{
+    background: transparent;
+    box-shadow: none;
+}
+.fractionbtn:hover:before {
+    height: 100%;
+}
+.fractionbtn:hover:after {
+    width: 100%;
+}
+.fractionbtn span:hover{
+    color: rgb(0, 0, 0);
+}
+.fractionbtn span:before,
+.fractionbtn span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.fractionbtn span:before {
+    width: 0.15em;
+    height: 0%;
+}
+.fractionbtn span:after {
+    width: 0%;
+    height: 0.15em;
+}
+.fractionbtn span:hover:before {
+    height: 100%;
+}
+.fractionbtn span:hover:after {
+    width: 100%;
+}
+
+.mixedfraction {
+    width: 100%;
+    height: 2em;
+    color: #000000;
+    letter-spacing: 0.05em;
+    font-family: sans-serif;
+    font-weight: 600;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+}
+
+.mixedfractionbtn {
+    background: rgb(184, 184, 184);
+    width: 100%;
+    height: 2em;
+    line-height: 2em;
+    padding: 0;
+    border: none;
+}
+.mixedfractionbtn span {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.mixedfractionbtn:before,
+.mixedfractionbtn:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.mixedfractionbtn:before {
+    height: 0%;
+    width: 0.15em;
+}
+.mixedfractionbtn:after {
+    width: 0%;
+    height: 0.15em;
+}
+.mixedfractionbtn:hover{
+    background: transparent;
+    box-shadow: none;
+}
+.mixedfractionbtn:hover:before {
+    height: 100%;
+}
+.mixedfractionbtn:hover:after {
+    width: 100%;
+}
+.mixedfractionbtn span:hover{
+    color: rgb(0, 0, 0);
+}
+.mixedfractionbtn span:before,
+.mixedfractionbtn span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.mixedfractionbtn span:before {
+    width: 0.15em;
+    height: 0%;
+}
+.mixedfractionbtn span:after {
+    width: 0%;
+    height: 0.15em;
+}
+.mixedfractionbtn span:hover:before {
+    height: 100%;
+}
+.mixedfractionbtn span:hover:after {
+    width: 100%;
+}
+
+.sequence {
+    width: 100%;
+    height: 2em;
+    color: #000000;
+    letter-spacing: 0.05em;
+    font-family: sans-serif;
+    font-weight: 600;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+}
+
+.sequencebtn {
+    background: rgb(184, 184, 184);
+    width: 100%;
+    height: 2em;
+    line-height: 2em;
+    padding: 0;
+    border: none;
+}
+.sequencebtn span {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.sequencebtn:before,
+.sequencebtn:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.sequencebtn:before {
+    height: 0%;
+    width: 0.15em;
+}
+.sequencebtn:after {
+    width: 0%;
+    height: 0.15em;
+}
+.sequencebtn:hover{
+    background: transparent;
+    box-shadow: none;
+}
+.sequencebtn:hover:before {
+    height: 100%;
+}
+.sequencebtn:hover:after {
+    width: 100%;
+}
+.additionbtn span:hover{
+    color: rgb(0, 0, 0);
+}
+.sequencebtn span:before,
+.sequencebtn span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.sequencebtn span:before {
+    width: 0.15em;
+    height: 0%;
+}
+.sequencebtn span:after {
+    width: 0%;
+    height: 0.15em;
+}
+.sequencebtn span:hover:before {
+    height: 100%;
+}
+.sequencebtn span:hover:after {
+    width: 100%;
+}
+
+.optiverexam {
+    width: 100%;
+    height: 2em;
+    color: #000000;
+    letter-spacing: 0.05em;
+    font-family: sans-serif;
+    font-weight: 600;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+}
+
+.optiverexambtn {
+    background: rgb(184, 184, 184);
+    width: 100%;
+    height: 2em;
+    line-height: 2em;
+    padding: 0;
+    border: none;
+}
+.optiverexambtn span {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.optiverexambtn:before,
+.optiverexambtn:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.optiverexambtn:before {
+    height: 0%;
+    width: 0.15em;
+}
+.optiverexambtn:after {
+    width: 0%;
+    height: 0.15em;
+}
+.optiverexambtn:hover{
+    background: transparent;
+    box-shadow: none;
+}
+.optiverexambtn:hover:before {
+    height: 100%;
+}
+.optiverexambtn:hover:after {
+    width: 100%;
+}
+.optiverexambtn span:hover{
+    color: rgb(0, 0, 0);
+}
+.optiverexambtn span:before,
+.optiverexambtn span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
+.optiverexambtn span:before {
+    width: 0.15em;
+    height: 0%;
+}
+.optiverexambtn span:after {
+    width: 0%;
+    height: 0.15em;
+}
+.optiverexambtn span:hover:before {
+    height: 100%;
+}
+.optiverexambtn span:hover:after {
+    width: 100%;
+}

@@ -1,0 +1,40 @@
+.frontpage {
+    display: grid;
+    width: 100%;
+    height: 100%;
+    grid-template-columns: 3.8% 35.86% 41.02% 15.52% 3.8%;
+    grid-template-rows: 7.5% 7.5% 37.5% 37.5% 5% 5%;
+    grid-gap: 0%;
+    grid-template-areas:
+        "header header header header header"
+        "blackbar1 blackbar2 blackbar3 blackbar4 blackbar5"
+        "blackbar6 section1 section1 sidebar blackbar7"
+        "blackbar8 section2 section3 sidebar blackbar9"
+        "blackbar10 blackbar11 blackbar12 blackbar13 blackbar14"
+        "footer footer footer footer footer";
+
+        /* grid-template-columns: 40% 1fr 19%; 
+           {3}
+           grid-template-rows: 15% 1fr 1fr 10%; 
+           {4}
+
+           grid-template-columns: 4.137931036%, 35.862068964%, 1fr, 15.5243902433% 3.4756097567%; 
+           {5}
+           grid-template-rows: 7.5% 7.5% 1fr 1fr 5% 5%;
+           {6}
+           
+           
+           grid-template-areas:
+               "header header header"
+               "section1 section1 sidebar"
+               "section2 section3 sidebar"
+               "footer footer footer";
+               
+            grid-template-areas:
+               "header header header header header"
+               "blackbar1 blackbar2 blackbar3 blackbar4 blackbar5"
+               "blackbar6 section1 section1 sidebar blackbar7"
+               "blackbar8 section2 section3 sidebar blackbar9"
+               "blackbar10 blackbar11 blackbar12 blackbar13 blackbar14"
+               "footer footer footer footer footer";*/
+}

@@ -1,0 +1,90 @@
+.userranking {
+    grid-area: userranking;
+    display: grid;
+    width: 100%;
+    height: 100%;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 10% 15% 75%;
+    grid-gap: 0%;
+    grid-template-areas: 
+        "useroverallraw useroverallaverage"
+        "useroverallrawrank useroverallaveragerank"
+        "useroverallrawgraph useroverallaveragegraph"
+}
+
+.useroverallraw {
+    grid-area: useroverallraw;
+}
+
+.useroverallrawstyle {
+    border-top: 0.225rem solid #000000;
+    border-right: 0.16875rem solid #000000;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    text-align: center;
+}
+
+.useroverallrawrank {
+    grid-area: useroverallrawrank;
+}
+
+.useroverallrawrankstyle {
+    background: transparent;
+    transition: background-color 0.5s;
+    border-top: 0.196875rem solid #000000;
+    border-right: 0.16875rem solid #000000;
+    border-bottom: 0.16875rem solid #000000;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+    font-size: 1.225rem;
+    text-align: center;
+    padding-top: 0.125rem;
+    letter-spacing: 0.1125rem;
+}
+
+.useroverallrawrankstyle:hover {
+    background-color: #000000;
+    opacity: 0.8;
+}
+
+.useroverallaveragestyle {
+    border-top: 0.225rem solid #000000;
+    border-right: 0.16875rem solid #000000;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    text-align: center;
+}
+
+.useroverallaveragerank {
+    grid-area: useroverallaveragerank;
+}
+
+.useroverallaveragerankstyle {
+    background: transparent;
+    transition: background-color 0.2s;
+    border-top: 0.196875rem solid #000000;
+    border-right: 0.16875rem solid #000000;
+    border-bottom: 0.16875rem solid #000000;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+    font-size: 1.225rem;
+    text-align: center;
+    padding-top: 0.125rem;
+    letter-spacing: 0.1125rem;
+}
+
+.useroverallaveragerankstyle:hover {
+    background-color: #000000;
+    opacity: 0.8;
+}
+
+.FNAstyle {
+    color: transparent;
+    transition: text-color 0.2s;
+}
+
+.FNAstyle:hover {
+    position: relative;
+    top: -1.25em;
+    color: #ff0000;
+}
