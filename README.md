@@ -77,7 +77,7 @@ May work on developing the following features (maybe not in order).
 <br></br>
 ⦿ Decimal Feature
 <br></br>
-⦿ Sign Feature
+⦿ Positive | Negative | Positive and Negative (Value) Feature
 <br></br>
 ⦿ Percentage Feature
 <br></br>
