@@ -1,6 +1,6 @@
 # QuantRacer
 <br></br>
-<b> You better star this repository or I'll tell all the quant firms not to hire you (I got Big Kenny G CitaDaddy on speed dial)</b>
+<b> You better star this repository or I'll tell all the quant firms not to hire you (I got Big Kenny G from CitaDaddy on speed dial)</b>
 <br></br>
 ![This10](https://user-images.githubusercontent.com/66035537/215831248-3f2254fb-3c69-4c54-b59c-c954fd4d8be7.png)
 <br></br>
