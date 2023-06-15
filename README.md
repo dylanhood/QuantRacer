@@ -105,7 +105,8 @@ May work on developing the following features (maybe not in order).
 <br></br>
 ⦿ Arithmetic Operation Frequency Heatmap Feature (Maybe)
 <br></br>
-
+⦿ Task Manager/System Monitor but for displaying a playback/rundown of the user's performance in a similar way to how some athletes may watch film, possibly for improvement | so like a tracker for visually displaying how fast/long a user speeds up and if/when the user slows down and whether or not the user fluctuates during their performance (on web, mobile, desktop and/or all application platforms) Feature (Maybe)
+<br></br> 
 
 
 
